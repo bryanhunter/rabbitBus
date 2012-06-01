@@ -6,7 +6,7 @@
     <authors>Derek Greer</authors>
     <owners>Derek Greer</owners>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
-    <description>RabbitMQ serialization JSON provider.</description>
+    <description>RabbitBus serialization JSON provider.</description>
     <tags>RabbitBus RabbitMQ Client AMQP Queue Bus JSON</tags>
 	<dependencies>
 		<dependency id="RabbitBus" version="" />
